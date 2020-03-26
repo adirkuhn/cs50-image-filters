@@ -10,7 +10,7 @@ Basic image filter as proposed in the cs50, this implementation covers:
  
 Blur (-b option)
 -
-Ads blur filter to BMP file.
+Adds blur filter to BMP file.
 
 ![Original](./images/tower.bmp)
 ![Blur](./images/blur.bmp)
